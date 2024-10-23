@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "../src/assets/1.jpg",
+      "title": "Understanding JSON in Web Development",
+      "author_img": "../src/assets/boy1.png",
+      "author": "John Doe",
+      "posted_date": "10 Oct (12 days ago)",
+      "reading_time": "5",
+      "hashtags": ["#beginners", "#programming"]
+    },
+    {
+      "id": 2,
+      "cover": "../src/assets/2.png",
+      "title": "Mastering JavaScript for Beginners",
+      "author_img": "../src/assets/girl1.jpg",
+      "author": "Jane",
+      "posted_date": "8 Oct (12 days ago)",
+      "reading_time": "8",
+      "hashtags": ["#javascript", "#coding", "#beginner"]
+    },
+    {
+      "id": 3,
+      "cover": "../src/assets/3.png",
+      "title": "A Guide to Python Libraries",
+      "author_img": "../src/assets/boy2.png",
+      "author": "John smith",
+      "posted_date": "5 Oct (17 days ago)",
+      "reading_time": "10",
+      "hashtags": ["#python", "#libraries", "#programming"]
+    },
+    {
+      "id": 4,
+      "cover": "../src/assets/4.jpg",
+      "title": "A Guide to Python Libraries",
+      "author_img": "../src/assets/girl2.jpg",
+      "author": "Sara",
+      "posted_date": "1 Oct (22 days ago)",
+      "reading_time": "10",
+      "hashtags": ["#python", "#libraries", "#programming"]
+    }
+  ]
+  
